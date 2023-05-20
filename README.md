@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
@@ -160,3 +161,6 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 - UniPC sampler - Wenliang Zhao - https://github.com/wl-zhao/UniPC
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (You)
+=======
+# stable-diffusion-webui
+>>>>>>> a6c3cc4db34aa8261d69061ed04634760337ba4c
